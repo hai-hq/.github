@@ -1,0 +1,2 @@
+# .github
+HAIHQ organization profile
