@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/haihq-horizontal-primary.svg" alt="HAIHQ primary horizontal logo" width="480">
+</p>
+
 # HAIHQ
 
 HAIHQ is a nonprofit, open-source research organization focused on advancing Health AI.
