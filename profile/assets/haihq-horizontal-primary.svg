@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="806" height="304" viewBox="0 0 806 304" role="img" aria-labelledby="asset-title asset-description">
+  <title id="asset-title">HAIHQ horizontal / primary</title>
+  <desc id="asset-description">Open Systems Lab identity. Charcoal, acid green, and stone. Transparent background. Outlined reconstruction from the supplied Core Brand Assets board. Three circles with concave connecting links.</desc>
+  <g transform="translate(24 20) scale(2.05)"><g id="haihq-three-primitives-symbol">
+    <path id="connecting-bridges" fill="#0B0B0B" d="M51 32C52 43 57 47 65 47C73 47 76 43 82 43L84 48C73 51 70 57 68 64C69 75 75 80 84 84L82 85C73 82 64 81 59 87C54 91 52 96 51 101L39 87C44 80 49 79 56 77C64 75 67 71 67 65C67 58 62 53 56 52C49 51 41 50 37 47Z"/>
+    <circle id="right-node" fill="#0B0B0B" cx="96" cy="64" r="28"/>
+    <circle id="upper-node" fill="#B6FF00" cx="28" cy="28" r="27"/>
+    <circle id="lower-node" fill="#D7D7D2" cx="28" cy="100" r="27"/>
+  </g></g><g transform="translate(320 101)"><g id="haihq-wordmark" fill="#0B0B0B" fill-rule="evenodd">
+    <path id="letter-h-1" d="M0 0H26V38H70V0H96V100H70V62H26V100H0Z"/>
+    <path id="letter-a" transform="translate(98 0)" d="M0 100L44 0H70L114 100H86L77 80H37L28 100ZM54 40Q57 35 60 40L67 55Q69 60 64 60H50Q45 60 47 55Z"/>
+    <path id="letter-i" transform="translate(218 0)" d="M0 0H25V100H0Z"/>
+    <path id="letter-h-2" transform="translate(252 0)" d="M0 0H26V38H70V0H96V100H70V62H26V100H0Z"/>
+    <g id="letter-q" transform="translate(356 0)">
+      <path d="M51 -1A51 51 0 1 1 51 101A51 51 0 1 1 51 -1ZM51 25A25 25 0 1 0 51 75A25 25 0 1 0 51 25Z"/>
+      <path d="M46 55H70L102 100H75L43 65Q40 62 46 55Z"/>
+    </g>
+  </g></g>
+</svg>
